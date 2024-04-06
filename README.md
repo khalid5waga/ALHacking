@@ -15,7 +15,10 @@ works on any of the following operating systems:
 
 • Linux (Debian Based Systems)
 
-• Unix
+• Unix<pkg install git>
+ثم <git clone https://github.com/4lbH4cker/ALHacking>
+<cd ALHacking>
+<bash alhack.sh>
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
